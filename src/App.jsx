@@ -114,9 +114,10 @@ const App = () => {
         </>
       ) : (
         <div className="absolute top-0 z-40 grid h-screen w-screen place-items-center backdrop-blur flex justify-center items-center ">
-          <h1 className="text-2xl font-extralight font-semibold fa-fade  ">
+          <h1 className="text-2xl text-white font-extralight font-semibold fa-fade  ">
           For an optimal experience, please view this page on a mobile device or resize your screen to simulate mobile devices.
           </h1>
+
         </div>
       )}
     </>
