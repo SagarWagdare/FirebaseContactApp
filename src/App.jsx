@@ -82,7 +82,7 @@ const App = () => {
     <>
       {isMobile ? (
         <>
-          <div className="max-w-[370px] h-[530px] mx-auto border   p-2 bg-black overflow-scroll scrollable-content ">
+          <div className="max-w-[370px]  mx-auto border   p-2 bg-black overflow-scroll scrollable-content ">
             <Navbar />
             <div className="flex gap-2">
               <div className="flex flex-grow relative items-center">
